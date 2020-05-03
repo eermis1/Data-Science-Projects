@@ -1,6 +1,6 @@
 # Data Science Applications Repository
 
-The repository is consisted of notebooks that has been created by Evren Ermiş 
+The repository is consisted of notebooks that have been created by Evren Ermiş 
 
 ### Repo Content:
 1. Auto-Encoders Examples
