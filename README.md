@@ -1,11 +1,12 @@
 # Data Science Applications Repository
 
-## Available Content
+The repository is consisted of notebooks that has been created by Evren Ermiş 
 
-1. Auto-Encoder Implementations
-  1.1. CNN Auto-Encoder 
-  1.2. FCN Auto-Encoder
-
-2. Tutorial Notebooks for Simple Image Classisication
-  2.1. CIFAR Image Classification with CNN
-  2.2. MNIST Image Classification with FCN
+### Repo Content:
+1. Auto-Encoders Examples
+    *  CNN Auto-Encoders (MNIST)
+    *  FCN Auto-Encoders (MNIST)
+  
+2. Image Classisification Tutorials
+    * CNN Image Classification (CIFAR)
+    * FCN Image Classification (MNIST)
